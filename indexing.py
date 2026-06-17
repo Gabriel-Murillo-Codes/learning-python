@@ -1,0 +1,11 @@
+transactions = [50.0, 200.0, 7.0, 1200.0, 33.0]
+print(transactions[0])
+print(transactions[2])
+print(transactions[-1])
+print(transactions[-2])
+print("Count:", len(transactions))
+print("Total:", sum(transactions))
+print("Biggest:", max(transactions))
+print("Smallest:", min(transactions))
+print("Sorted:", sorted(transactions))
+print("Original again:", transactions)
