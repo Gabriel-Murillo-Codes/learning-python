@@ -27,4 +27,4 @@ print(medium)
 print(small)
 print(transactions)
 for transaction in transactions:
-    print("Transaction: ", transaction)
+    print("Transaction:", transaction)
